@@ -1,6 +1,6 @@
 # 🎓 Student Focus Buddy — Your AI Study Companion
 
-Student Focus Buddy is a student-friendly web application designed to help students organize their academic tasks, plan study sessions, stay focused, and track their progress.
+Student Focus Buddy is a student-friendly web application designed to help students organize academic tasks, plan study sessions, stay focused, and track their progress.
 
 ### ✨ Key Features
 - 📋 Study task and deadline management
@@ -13,10 +13,10 @@ Student Focus Buddy is a student-friendly web application designed to help stude
 ### 🛠️ Technologies
 - Web Development
 - Browser Local Storage
-- AI Integration (depending on the implemented configuration)
+- AI Integration (depending on implementation)
 
 ### 🚀 Live Project
-[**Try Student Focus Buddy**](https://ai.studio/apps/7a0fbc88-bd43-48ec-a786-6f87e29346a5)
+[**Try Student Focus Buddy**](https://ai.studio/apps/c8ce8600-4095-4070-b723-00f4186ed614)
 
 ### 🎯 Goal
 To make studying more organized, focused, and productive.
