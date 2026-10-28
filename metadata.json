@@ -1,0 +1,6 @@
+{
+  "name": "Student Focus Buddy — Your AI Study Companion",
+  "description": "A college hackathon study companion with smart task management, Pomodoro focus timer, weekly analytics, timetable scheduler, and AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
